@@ -1,3 +1,3 @@
-def board
+def {board}
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
