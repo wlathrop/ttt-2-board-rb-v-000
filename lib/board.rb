@@ -1,3 +1,3 @@
-calss Board
-  
+class Board
+Board = Array  
 
